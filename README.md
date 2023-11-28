@@ -45,7 +45,7 @@ RegisterNumber: 23013441
 Logic symbol & Truthtable
 RTL realization
 
-## code
+### Code
 
 ## Half Adder
 
@@ -55,7 +55,7 @@ RTL realization
 
 ![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/7efa041e-612b-46c8-9326-dd713ffcaced)
 
-## Truth Table
+### Truth Table
 
 ## Half Adder
 
@@ -65,7 +65,7 @@ RTL realization
 
 ![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/9c155e0c-864e-4111-a8f1-cf55160eb69e)
 
-## RTL
+### RTL
 
 ## Half Adder
 
@@ -75,7 +75,7 @@ RTL realization
 
 ![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/949c5dbe-152b-4b05-961b-66e27f990194)
 
-## Timing Diagram
+### Timing Diagram
 
 ## Half Adder
 
@@ -86,3 +86,5 @@ RTL realization
 ![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/05dddc45-6398-4e7f-a7ad-ed6142bd12e2)
 
 ### Result:
+
+Thus, the half adder and full adder circuits are designed and the truth tables is verified using quartus software.
