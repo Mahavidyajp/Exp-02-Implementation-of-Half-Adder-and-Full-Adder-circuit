@@ -38,17 +38,51 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: Maha Vidya J P
+RegisterNumber: 23013441 
 */
 Logic symbol & Truthtable
 RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+## code
 
+## Half Adder
 
-### TRUTH TABLE 
+![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/fb9ecb3c-1f81-4400-811a-2ffac82c43a2)
+
+## Full Adder
+
+![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/7efa041e-612b-46c8-9326-dd713ffcaced)
+
+## Truth Table
+
+## Half Adder
+
+![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/1e1fb604-9c8c-401f-9691-a270622c0cc6)
+
+## Full Adder
+
+![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/9c155e0c-864e-4111-a8f1-cf55160eb69e)
+
+## RTL
+
+## Half Adder
+
+![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/30f2f563-63f4-475b-9719-dd713738b454)
+
+## Full Adder
+
+![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/949c5dbe-152b-4b05-961b-66e27f990194)
+
+## Timing Diagram
+
+## Half Adder
+
+![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/8aebdbf8-b0f9-4628-9fdc-90efe3c5b3bd)
+
+## Full Adder
+
+![image](https://github.com/Mahavidyajp/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870914/05dddc45-6398-4e7f-a7ad-ed6142bd12e2)
 
 ### Result:
